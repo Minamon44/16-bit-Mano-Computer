@@ -2,6 +2,9 @@
 
 This project includes Verilog modules for a 16-bit CPU simulation in Xilinx Vivado, along with corresponding Proteus schematic files and binary ROM data.
 
+## Project Video:
+https://drive.google.com/drive/folders/14WstAmhyKe7-ECNU8601bNMFFkQDiqpb?usp=sharing
+
 ---
 
 ## 📁 Included Files
